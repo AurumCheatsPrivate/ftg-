@@ -12,7 +12,7 @@ def register(cb):
 
 
 class DttsMod(loader.Module):
-    """Text to speech module"""
+    """SPYHC"""
 
     strings = {"name": 'DTTS',
                "no_text": "I can't say nothing",
